@@ -1,6 +1,7 @@
 # C# Terminal
 A no-frills terminal using the C# dotnet console application that you can use [freely (public domain.)](LICENSE.txt)
 
+![Preview of the terminal](docs/preview.gif)
 # How It Works
 Let's say you type the following input in the terminal:
 ```

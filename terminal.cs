@@ -72,10 +72,14 @@ namespace CSharpTerminal {
 
         public void runTerminalCommand()
         {
-            switch(TerminalCommand.ToLower())
+            if(TerminalCommand != null)
             {
-                // Put commands here:
-                default: break;
+                switch(TerminalCommand.ToLower())
+                {
+                    // Put commands here:
+                    // Make sure it's all lowercase.
+                    default: break;
+                }
             }
         }
 
