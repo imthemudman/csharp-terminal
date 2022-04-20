@@ -67,22 +67,20 @@ namespace CSharpTerminal {
             {
                 case "EMPTY ARGUMENT": tempTerminalArguments[1] = null; break;
                 default: if (tempTerminalArguments[1] != null) { TerminalArguments = tempTerminalArguments[1].Split(','); } break;
-            }
-
-            runTerminalCommand(TerminalCommand, TerminalArguments);         
+            }       
         }
 
-        public void runTerminalCommand(string command, string[] args)
+        public void runTerminalCommand()
         {
-            switch(command)
+            switch(TerminalCommand.ToLower())
             {
                 // Put commands here:
                 default: break;
             }
         }
 
-        public string getPreviousCommand() => TerminalCommand;
-        public string[] getPreviousArguments() => TerminalArguments;
-        public string getSpecificArgument(int argArraySlot) => TerminalArguments[argArraySlot];
+        public string getCommand() => TerminalCommand;
+        public string[] getArguments() => TerminalArguments;
+        public string getArgument(int argArraySlot) => TerminalArguments[argArraySlot];
     }
 }
