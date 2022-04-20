@@ -1,9 +1,6 @@
 /**
   * The file for the terminal, go ahead and put it anywhere in your project. 
   * Just make sure you initialize the terminal in your script.
-  *
-  * Terminal terminal = new Terminal();
-  * If you want to run input, fire this method: terminal.getTerminalInput();
   */
 using System;
 
