@@ -1,0 +1,16 @@
+C:\Users\sglaw\Desktop\git\csharp-terminal\bin\Debug\net5.0\csharp-terminal.exe
+C:\Users\sglaw\Desktop\git\csharp-terminal\bin\Debug\net5.0\csharp-terminal.deps.json
+C:\Users\sglaw\Desktop\git\csharp-terminal\bin\Debug\net5.0\csharp-terminal.runtimeconfig.json
+C:\Users\sglaw\Desktop\git\csharp-terminal\bin\Debug\net5.0\csharp-terminal.runtimeconfig.dev.json
+C:\Users\sglaw\Desktop\git\csharp-terminal\bin\Debug\net5.0\csharp-terminal.dll
+C:\Users\sglaw\Desktop\git\csharp-terminal\bin\Debug\net5.0\ref\csharp-terminal.dll
+C:\Users\sglaw\Desktop\git\csharp-terminal\bin\Debug\net5.0\csharp-terminal.pdb
+C:\Users\sglaw\Desktop\git\csharp-terminal\obj\Debug\net5.0\csharp-terminal.csprojAssemblyReference.cache
+C:\Users\sglaw\Desktop\git\csharp-terminal\obj\Debug\net5.0\csharp-terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sglaw\Desktop\git\csharp-terminal\obj\Debug\net5.0\csharp-terminal.AssemblyInfoInputs.cache
+C:\Users\sglaw\Desktop\git\csharp-terminal\obj\Debug\net5.0\csharp-terminal.AssemblyInfo.cs
+C:\Users\sglaw\Desktop\git\csharp-terminal\obj\Debug\net5.0\csharp-terminal.csproj.CoreCompileInputs.cache
+C:\Users\sglaw\Desktop\git\csharp-terminal\obj\Debug\net5.0\csharp-terminal.dll
+C:\Users\sglaw\Desktop\git\csharp-terminal\obj\Debug\net5.0\ref\csharp-terminal.dll
+C:\Users\sglaw\Desktop\git\csharp-terminal\obj\Debug\net5.0\csharp-terminal.pdb
+C:\Users\sglaw\Desktop\git\csharp-terminal\obj\Debug\net5.0\csharp-terminal.genruntimeconfig.cache
