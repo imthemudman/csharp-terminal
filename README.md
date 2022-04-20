@@ -61,7 +61,7 @@ You get this:
 My cool header:> helloworld Spam,Eggs
 ```
 
-## Getting Consumer Input
+## Getting Terminal Input
 Getting input is noteworthy for the terminal; Let's ask for input.
 ```cs
 // When you need to get input:
