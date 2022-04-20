@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: C# Terminal
 description: A no-frills terminal using the C# dotnet console application that you can use freely (public domain.)
+show_downloads: true
