@@ -1,4 +1,4 @@
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-dinky
 title: C# Terminal
 description: A no-frills terminal using the C# dotnet console application that you can use freely (public domain.)
 show_downloads: true
