@@ -1,5 +1,5 @@
 /**
-  * For the file to use the terminal, go ahead and put it anywhere in your project. 
+  * The file for the terminal, go ahead and put it anywhere in your project. 
   * Just make sure you initialize the terminal in your script.
   *
   * Terminal terminal = new Terminal();
