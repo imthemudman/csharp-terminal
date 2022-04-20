@@ -7,7 +7,7 @@ Let's say you type the following input in the terminal:
 > helloworld Spam,Eggs
 ```
 
-`helloworld` is the command, the first word. If you type `hello world`, `hello` will be the command, and `world` will be the first argument. When it's done getting the command and arguments, it'll try to look for a command.
+`helloworld` is the command, the first word. If you type `hello world`, `hello` will be the command, and `world` will be the first argument.
 
 `Spam` and `Eggs` are arguments. You type `Spam,Eggs`, so it'll get split in the process. If you type `Pie,Cookies,Brownies`, the arguments gets remembered like:
 ```cs
@@ -122,6 +122,12 @@ string[] arguments = terminal.getArguments();
 ```
 
 ### Specific Command Argument
+```cs
+// Arguments: {"Eggs", "Spam"}
+// When you need to return just one:
+string argument = terminal.getArgument(1);
+```
+So, if you want to make a conditional statement if the 2nd argument is `Spam`:
 ```cs
 // Arguments: {"Eggs", "Spam"}
 // When you need to return just one:
