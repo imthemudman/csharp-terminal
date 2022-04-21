@@ -3,7 +3,7 @@ using CSharpTerminal;
 
 class DotnetProgram
 {
-    private static void Main(string[] myArguments)
+    private static void Main(string[] args)
     {
         Terminal terminal = new Terminal();
 
